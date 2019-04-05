@@ -32,20 +32,30 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+~ Document Object Model is a representation of the elements on a webpage. It is created by the browser and acts as an API for making changes to those elements. 
+
 2. What is an event?
+
+~ An event occurs when a user interacts with a webpage. There are many types of events including window events, mouse and keyboard events. 
 
 3. What is an event listener?
 
+~ Listeners wait for an event to occur then fire a callback. 
+
 4. Why would we convert a NodeList into an Array?
+
+~ In order to access the array methods. 
 
 5. What is a component?
 
+~ A component is resuable block of code. Usually written in html css and js. It does one thing well. 
+
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-* [ ] You are now ready to build this project with your preferred IDE
+* [ - ] Fork the project into your GitHub user account
+* [ - ] Clone the forked project into a directory on your machine
+* [ - ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [ - ] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
